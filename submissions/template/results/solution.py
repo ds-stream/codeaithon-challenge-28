@@ -1,4 +1,7 @@
 def reverse_substrings(s):
+    """Reverses each word in a string.
+    !!! This is a placeholder function, replace it with your solution !!!
+    """
     words = s.split(" ")
     reversed_words = []
     for word in words:
